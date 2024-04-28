@@ -1,0 +1,3 @@
+2024-04-23 11:39:33 [grizzly-http-server-0] ERROR fiap.tds.repositories.UsuarioRepository - Erro ao tentar pegar todos os produtos The url cannot be null
+2024-04-23 11:40:27 [grizzly-http-server-0] ERROR fiap.tds.repositories.UsuarioRepository - Erro ao tentar pegar todos os produtos The url cannot be null
+2024-04-23 11:42:25 [grizzly-http-server-0] INFO  fiap.tds.repositories.UsuarioRepository - Produtos retornados com sucesso
